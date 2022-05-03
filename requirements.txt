@@ -1,0 +1,9 @@
+click==7.1.2
+nltk==3.6.1
+numpy==1.21.4
+pandas==1.2.4
+python-dotenv==0.20.0
+scipy==1.6.2
+setuptools==58.5.3
+torch==1.10.0
+tqdm==4.60.0
